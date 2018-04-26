@@ -1,0 +1,12 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing expressjs",
+  "main": "index.js",
+  "author": "Syahrul Romadhon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-generator": "^4.16.0"
+  }
+}
